@@ -1,3 +1,17 @@
+# Gradle
+
+Add the following code to module build.gradle.
+
+```
+repositories {
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile 'com.github.droibit:trimmin:0.1'
+}
+```
+
 # License
 
     Copyright 2015 droibit
