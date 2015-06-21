@@ -1,3 +1,6 @@
+# Trimmin
+![Jitpack.io](https://img.shields.io/github/release/droibit/trimmin.svg?label=JitPack)
+
 # Gradle
 
 Add the following code to module build.gradle.
