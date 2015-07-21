@@ -1,4 +1,4 @@
-package com.droibit.trimin;
+package com.droibit.trimmin;
 
 
 import android.graphics.Bitmap;
@@ -11,9 +11,6 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertThat;
 
 /**
  * Test the {@link Trimmin} class.

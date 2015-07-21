@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.droibit:trimmin:0.1'
+    compile 'com.github.droibit:trimmin:0.1.2'
 }
 ```
 
